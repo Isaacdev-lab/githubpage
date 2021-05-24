@@ -1,0 +1,28 @@
+body {
+  margin-top: 95px; }
+
+.navbar {
+  box-shadow: 2px 2px 5px #3292a6;
+  opacity: 0.9;
+  background: #fff;
+}
+
+.navbar .nav-item {
+  font-size: 1.4rem;
+  padding-right: 20px; 
+}
+
+.navbar input[type="search"] {
+  border-radius: 5px;
+  outline: none;
+  border-width: 1px;
+  color: #3292a6;
+  font-style: italic; 
+}
+
+#showcase {
+  background: url(../img/header.png);
+  min-height: 600px; }
+
+.info-header {
+  margin: auto; }
